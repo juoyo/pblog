@@ -1,0 +1,4 @@
+baseURL = 'https://yaozhu.top/pblog/'
+languageCode = 'en-us'
+title = 'My P Blog'
+theme = "ananke"
